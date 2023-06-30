@@ -1,0 +1,9 @@
+https://raw.iqiq.io/ntgmc/MAA-QA/main/
+https://raw.fastgit.ixmu.net/ntgmc/MAA-QA/main/
+https://github.moeyy.xyz/https://raw.githubusercontent.com/ntgmc/MAA-QA/main/
+https://raw.kgithub.com/ntgmc/MAA-QA/main/
+https://ghproxy.com/https://raw.githubusercontent.com/ntgmc/MAA-QA/main/
+https://fastly.jsdelivr.net/gh/ntgmc/MAA-QA@main/
+https://cdn.staticaly.com/gh/ntgmc/MAA-QA/main/
+https://gcore.jsdelivr.net/gh/ntgmc/MAA-QA@main/
+https://jsdelivr.b-cdn.net/gh/ntgmc/MAA-QA@main/
