@@ -1,0 +1,70 @@
+{
+    "code": 200,
+    "version": {
+        "version": "4.0",
+        "vernowcanuse": ["0.0", "3.11", "3.13", "3.14", "3.15", "3.18", "3.20", "3.23", "4.0"]
+    },
+    "ver": {
+        "3_11": "修复下载文件名错误的BUG，增加保全作业路径自动检测MAA",
+        "3_12": "增加手动下载选项",
+        "3_13": "修复网络错误判断逻辑",
+        "3_14": "修复手动下载全部作业合集时出错",
+        "3_15": "优化自动更新逻辑，增加强制使用备用线路",
+        "3_16": "保全作业更新",
+        "3_17": "自动更新文本调整",
+        "3_18": "增加全局广播功能",
+        "3_20": "字体更改为微软雅黑，增加启动前声明，保全作业更新",
+        "3_21": "更新优化-仅显示新版本更新信息",
+        "3_22": "增加Net8.0下载",
+        "3_23": "广播&声明逻辑优化",
+        "3_24": "增加软件打开次数显示，更新程序更新至3.0",
+        "4_0": "修复3.25线程关闭异常的问题，修改数据格式为json，下载地址改为在线更新，官服和B服APK改为直接下载"
+    },
+    "Randomcheckcode": "MJTScsQDKkQWlLzzCqZLhsnjt7LqDwbCpdjEEQEdIBux8QWlpc",
+    "download": {
+        "Prioritize": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ntgmc/MAA-QA/main/",
+        "filesize": 1888256,
+        "lanzou-prefix": "https://wwvm.lanzouh.com/"
+    },
+    "Global_Broadcasting": {
+        "Global_Broadcasting_Opened": "真",
+        "Global_Broadcasting": "MAA5.0.0版本开始要使用NET8.0运行库\n未安装的请尽快安装"
+    },
+    "Copyright_statement": {
+        "Copyright_statement": "真",
+        "Copyright_content": "本程序完全免费,由易语言开发,用于帮助使用MAA\n开源地址:https://github.com/ntgmc/MAA-QA\n制作者QQ2586582719,有任何问题请联系\n\n当前版本:%版本号%，欢迎使用！"
+    },
+    "widget": {
+        "download": {
+            "bottom_1": "常见运行库",
+            "introduction_1": "微软常见运行库合集|MSVBCRT.AIO.2022.10.21.zip|常见运行库.zip",
+            "lanzou_1": "iv4FO11p1w1c",
+            "bottom_2": "安卓调试工具包\n/adb包",
+            "introduction_2": "安卓调试工具|platform-tools_r33.0.3-windows.zip|platform-tools_r33.0.3-windows.zip",
+            "lanzou_2": "i7kaR11p1w7i",
+            "bottom_3": "NET4.8",
+            "introduction_3": ".NET4.8运行库|.NETFramework4.8.zip|.NET4.8运行库.zip",
+            "lanzou_3": "iEEwe11p1uti",
+            "bottom_4": "运行库安装教程",
+            "introduction_4": "运行库安装教程3.0|Installation-Tutorial-for-Libraries-3.0.docx|运行库安装教程3.0.docx",
+            "lanzou_4": "irgAe11p1w8j",
+            "bottom_5": ".NET8.0",
+            "introduction_5": ".NET8.0运行库|windowsdesktop-runtime-8.0.0-win-x64.zip|.NET8.0运行库.zip",
+            "lanzou_5": "ibCKC1ks66he"
+        },
+        "MUMU": "https://note.youdao.com/s/XfA0PoM7",
+        "ALL": "ALL-2023-12-10-10-27-31.zip",
+        "Copilot": "https://prts.plus"
+    },
+    "Download_Mirror_Source": [
+          "https://raw.iqiq.io/ntgmc/MAA-QA/main/",
+          "https://raw.fastgit.ixmu.net/ntgmc/MAA-QA/main/",
+          "https://github.moeyy.xyz/https://raw.githubusercontent.com/ntgmc/MAA-QA/main/",
+          "https://raw.kgithub.com/ntgmc/MAA-QA/main/",
+          "https://ghproxy.com/https://raw.githubusercontent.com/ntgmc/MAA-QA/main/",
+          "https://fastly.jsdelivr.net/gh/ntgmc/MAA-QA@main/",
+          "https://cdn.staticaly.com/gh/ntgmc/MAA-QA/main/",
+          "https://gcore.jsdelivr.net/gh/ntgmc/MAA-QA@main/",
+          "https://jsdelivr.b-cdn.net/gh/ntgmc/MAA-QA@main/"
+    ]
+}
