@@ -1,8 +1,8 @@
 {
     "code": 200,
     "version": {
-        "version": "4.0",
-        "vernowcanuse": "0.0, 3.11, 3.13, 3.14, 3.15, 3.18, 3.20, 3.23, 4.0"
+        "version": "4.1",
+        "vernowcanuse": "0.0, 3.11, 3.13, 3.14, 3.15, 3.18, 3.20, 3.23, 4.1"
     },
     "ver": {
         "3_11": "修复下载文件名错误的BUG，增加保全作业路径自动检测MAA",
@@ -47,14 +47,14 @@
             "introduction_3": ".NET4.8运行库|.NETFramework4.8.zip|.NET4.8运行库.zip",
             "lanzou_3": "iEEwe11p1uti",
             "bottom_4": "运行库安装教程",
-            "introduction_4": "运行库安装教程3.0|Installation-Tutorial-for-Libraries-3.0.docx|运行库安装教程3.0.docx",
-            "lanzou_4": "irgAe11p1w8j",
+            "introduction_4": "运行库安装教程4.0|Installation-Tutorial-for-Libraries-4.0.docx|运行库安装教程4.0.docx",
+            "lanzou_4": "isJS21nq9wre",
             "bottom_5": ".NET8.0",
             "introduction_5": ".NET8.0运行库|windowsdesktop-runtime-8.0.0-win-x64.zip|.NET8.0运行库.zip",
             "lanzou_5": "ibCKC1ks66he"
         },
         "MUMU": "https://note.youdao.com/s/XfA0PoM7",
-        "ALL": "ALL-2023-12-10-10-27-31.zip",
+        "ALL": "ALL-2024-02-08-14-51-29.zip",
         "Copilot": "https://prts.plus"
     },
     "Download_Mirror_Source": [
