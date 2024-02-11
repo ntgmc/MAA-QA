@@ -1,8 +1,8 @@
 {
     "code": 200,
     "version": {
-        "version": "4.1",
-        "vernowcanuse": "0.0, 3.11, 3.13, 3.14, 3.15, 3.18, 3.20, 3.23, 4.1"
+        "version": "4.2",
+        "vernowcanuse": "0.0, 3.11, 3.13, 3.14, 3.15, 3.18, 3.20, 3.23, 4.1, 4.2"
     },
     "ver": {
         "3_11": "修复下载文件名错误的BUG，增加保全作业路径自动检测MAA",
@@ -19,13 +19,14 @@
         "3_23": "广播&声明逻辑优化",
         "3_24": "增加软件打开次数显示，更新程序更新至3.0",
         "4_0": "修改数据格式为json，下载地址改为在线更新，官服和B服APK改为直接下载",
-        "4_1": "修复信息框未关闭而关闭程序时异常占用CPU的问题，修复网络连接失败的问题"
+        "4_1": "修复信息框未关闭而关闭程序时异常占用CPU的问题，修复网络连接失败的问题",
+        "4_2": "新增蓝奏云直链下载，优化下载程序，修复手动下载无法获取链接，修复更新内容错误显示旧版本内容"
     },
     "Randomcheckcode": "Psjns3iYP28eHpfzAJvcuVvIzQ9AUNR8GKIJseOODClmVwvLcm",
     "download": {
         "Prioritize": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ntgmc/MAA-QA/main/",
-        "filesize": 1888256,
-        "lanzou-prefix": "https://wwvm.lanzouh.com/"
+        "filesize": 1859584,
+        "lanzou_prefix": "wwt.lanzouh.com"
     },
     "Global_Broadcasting": {
         "Global_Broadcasting_Opened": "真",
