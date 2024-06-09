@@ -41,7 +41,7 @@
     },
     "widget": {
         "download": {
-            "bottom_1": "常见运行库",
+            "bottom_1": "C++ RUNTIME",
             "introduction_1": "C++ RUNTIME|VC_redist.x64.exe|VC_redist.x64.exe",
             "lanzou_1": "ioqk021bilrg",
             "bottom_2": "安卓调试工具包\n/adb包",
@@ -53,7 +53,7 @@
             "bottom_4": "运行库安装教程",
             "introduction_4": "运行库安装教程4.0|Installation-Tutorial-for-Libraries-4.0.docx|运行库安装教程4.0.docx",
             "lanzou_4": "isJS21nq9wre",
-            "bottom_5": ".NET8.0",
+            "bottom_5": ".NET8.0.6",
             "introduction_5": ".NET8.0运行库|windowsdesktop-runtime-8.0.6-win-x64.exe|windowsdesktop-runtime-8.0.6-win-x64.exe",
             "lanzou_5": "iGFfI21bim5a"
         },
