@@ -1,8 +1,8 @@
 {
     "code": 200,
     "version": {
-        "version": "4.5",
-        "vernowcanuse": "0.0, 3.11, 3.13, 3.14, 3.15, 3.18, 3.20, 3.23, 4.2, 4.3, 4.5"
+        "version": "4.6",
+        "vernowcanuse": "0.0, 3.11, 3.13, 3.14, 3.15, 3.18, 3.20, 3.23, 4.2, 4.3, 4.5, 4.6"
     },
     "ver": {
         "3_11": "修复下载文件名错误的BUG，增加保全作业路径自动检测MAA",
@@ -23,12 +23,13 @@
         "4_2": "新增蓝奏云直链下载，优化下载程序，修复手动下载无法获取链接，修复更新内容错误显示旧版本内容",
         "4_3": "优化程序大小，部分功能重构，保全作业改为在线下载，删除NET4.8下载按键",
         "4_4": "增加单击版本号时处理，自该版本之后不提供远古版本直接更新到最新版，需先更新到4.3版本",
-        "4_5": "修复无法使用默认线路更新的BUG"
+        "4_5": "修复无法使用默认线路更新的BUG",
+        "4_6": "修复无法使用手动下载的BUG"
     },
     "Randomcheckcode": "Psjns3iYP28eHpfzAJvcuVvIzQ9AUNR8GKIJseOODClmVwvLcm",
     "download": {
         "Prioritize": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ntgmc/MAA-QA/main/",
-        "filesize": 1818624,
+        "filesize": 1822720,
         "lanzou_prefix": "wwt.lanzouh.com",
         "copilot": "copilot.zip"
     },
