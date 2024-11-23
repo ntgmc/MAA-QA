@@ -43,8 +43,8 @@
     "widget": {
         "download": {
             "bottom_1": "C++ RUNTIME",
-            "introduction_1": "C++ RUNTIME|VC_redist.x64.exe|VC_redist.x64.exe",
-            "lanzou_1": "ioqk021bilrg",
+            "introduction_1": "C++_RUNTIME|VC_redist.x64.zip|VC_redist.x64.zip",
+            "lanzou_1": "iNn852g0tu2f",
             "bottom_2": "安卓调试工具包\n/adb包",
             "introduction_2": "安卓调试工具|platform-tools_r33.0.3-windows.zip|platform-tools_r33.0.3-windows.zip",
             "lanzou_2": "i7kaR11p1w7i",
@@ -54,9 +54,9 @@
             "bottom_4": "运行库安装教程",
             "introduction_4": "运行库安装教程4.0|Installation-Tutorial-for-Libraries-4.0.docx|运行库安装教程4.0.docx",
             "lanzou_4": "isJS21nq9wre",
-            "bottom_5": ".NET8.0.6",
-            "introduction_5": ".NET8.0运行库|windowsdesktop-runtime-8.0.6-win-x64.exe|windowsdesktop-runtime-8.0.6-win-x64.exe",
-            "lanzou_5": "iGFfI21bim5a"
+            "bottom_5": ".NET8.0.10",
+            "introduction_5": ".NET8.0.10运行库|windowsdesktop-runtime-8.0.10-win-x64.exe|windowsdesktop-runtime-8.0.10-win-x64.exe",
+            "lanzou_5": "i3iyS2g0tsxe"
         },
         "MUMU": "https://note.youdao.com/s/XfA0PoM7",
         "ALL": "ALL-2024-02-08-14-51-29.zip",
