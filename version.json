@@ -34,8 +34,8 @@
         "copilot": "copilot.zip"
     },
     "Global_Broadcasting": {
-        "Global_Broadcasting_Opened": "假",
-        "Global_Broadcasting": "MAA5.0.0版本开始要使用NET8.0运行库\n未安装的请尽快安装"
+        "Global_Broadcasting_Opened": "真",
+        "Global_Broadcasting": "蓝奏云下载已经失效,请使用其他下载线路下载"
     },
     "Copyright_statement": {
         "Copyright_statement": "真",
